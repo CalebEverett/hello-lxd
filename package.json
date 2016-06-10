@@ -1,0 +1,19 @@
+{
+  "name": "hello-lxd",
+  "version": "0.0.1",
+  "description": "hello lxd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalebEverett/hello-lxd.git"
+  },
+  "author": "caleb@calebeverett.io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CalebEverett/hello-lxd/issues"
+  },
+  "homepage": "https://github.com/CalebEverett/hello-lxd#readme"
+}
